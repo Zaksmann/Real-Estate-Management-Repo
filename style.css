@@ -1,85 +1,33 @@
-/* .Uber-btn {
-  background-color: #000000;
-  color: #fff;
-  border: none;
-  width: 120px;
-  height: 40px;
-  margin-bottom: 30px;
-  cursor: pointer;
+.hero {
+  width: 1440px;
+  height: 1024px;
+  padding: 30px;
+  gap: 10px;
+}
+.container {
+  border: 1px solid #b3b3b3;
+  border-radius: 30px;
+  max-width: 1200px;
+  width: 100%;
+  height: 640px;
+  display: flex;
+  position: absolute;
+  top: 92px;
+  left: 300px;
+}
+.leftside-img {
+  background-image: url(./rent.png);
+  background-size: cover;
+  background-position: center;
+  width: 50%;
+  height: 640px;
+  border-radius: 30px;
 }
 
-.Amazon-btn {
-  background-color: rgb(255, 216, 20);
-  color: rgb(00, 00, 00);
-  border: none;
-  width: 180px;
-  height: 40px;
-  border-radius: 25px;
-  font-size: 15px;
-  margin-left: 10px;
-  cursor: pointer;
+.rightside-img {
+  width: 490px;
+  height: 325px;
+  position: relative;
+  top: 57px;
+  left: 57px;
 }
-
-.Github-btn {
-  background-color: rgb(46, 164, 79);
-  color: #fff;
-  border: none;
-  width: 100px;
-  height: 40px;
-  border-radius: 8px;
-  font-size: 15px;
-  margin-left: 10px;
-  cursor: pointer;
-}
-
-.Bootstrap-btn {
-  background-color: rgb(121, 82, 179);
-  color: #fff;
-  border: none;
-  width: 120px;
-  height: 40px;
-  border-radius: 5px;
-  font-size: 15px;
-  margin-left: 30px;
-  margin-right: 10px;
-  cursor: pointer;
-}
-
-.Bootstrap-btn2 {
-  background-color: #fff;
-  color: rgb(108, 117, 125);
-  width: 120px;
-  height: 40px;
-  border-color: rgb(108, 117, 125);
-  border: solid;
-  border-width: 1px;
-  border-radius: 3px;
-  font-weight: 200px;
-  font-size: 15px;
-  cursor: pointer;
-}
-
-.Linkedin-btn {
-  background-color: rgb(10, 102, 194);
-  color: #fff;
-  border: none;
-  font-size: 17px;
-  padding: 15px 35px;
-  border-radius: 50px;
-  font-weight: 540;
-  word-spacing: 2px;
-  cursor: pointer;
-}
-
-.Linkedin-btn2 {
-  background-color: #fff;
-  color: rgb(10, 102, 194);
-  border: solid;
-  border-width: 1px;
-  border-color: rgb(10, 102, 194);
-  font-size: 17px;
-  padding: 12px 30px;
-  border-radius: 50px;
-  cursor: pointer;
-  margin-left: 10px;
-} */
